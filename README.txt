@@ -13,9 +13,9 @@ FolderMap / 文件信息导出器
    - 忽略后缀：可手写，也可从常见后缀下拉快速加入。
 4. 点击“开始扫描”并查看目录预览。
 5. 调整导出设置后点击顶部“导出文件”。默认格式为 Word (.docx)。
-![Logo](images / 原始界面.png)
-![Logo](images / 使用示例.png)
-![Logo](images / 结果示例.png)
+![Logo](images/原始界面.png)
+![Logo](images/使用示例.png)
+![Logo](images/结果示例.png)
 说明：
 - 从“加入忽略”弹窗中选择的文件夹按具体相对路径过滤，例如 ./项目A/cache，只忽略这一处，不会误伤 ./项目B/cache。
 - 常见目录按目录名过滤，例如 node_modules 会忽略扫描范围内所有同名目录。
