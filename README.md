@@ -15,7 +15,9 @@ FolderMap / 文件信息导出器
 5. 调整导出设置后点击顶部“导出文件”。默认格式为 Word (.docx),可选择切换成 txt 、 md 、 json 形式。
 
 ![Logo](images/原始界面.png)
+
 ![Logo](images/使用示例.png)
+
 ![Logo](images/结果示例.png)
 说明：
 - 从“加入忽略”弹窗中选择的文件夹按具体相对路径过滤，例如 ./项目A/cache，只忽略这一处，不会误伤 ./项目B/cache。
